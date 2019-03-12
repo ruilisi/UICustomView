@@ -3,7 +3,7 @@ UICustomView
 
 UIView to show gradient color and corner radius:
 
-<img src="https://res.paiyou.org/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-03-12%20at%2018.51.04.png" alt="UICustomView" width="300"/>
+<img src="https://res.paiyou.org/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-03-12%20at%2019.17.02.png" alt="UICustomView" width="300"/>
 
 ### Usage
 
@@ -31,9 +31,9 @@ topLeftRadius: Bool = true
 ### Examples
 * Settings for outer UIView in this image:
 
-<img src="https://res.paiyou.org/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-12%2018.55.50.png" alt="UICustomView" width="300"/>
+<img src="https://res.paiyou.org/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-12%2019.17.30.png" alt="UICustomView" width="300"/>
 
-<img src="https://res.paiyou.org/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-03-12%20at%2018.55.54.png" alt="UICustomView" width="300"/>
+<img src="https://res.paiyou.org/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-03-12%20at%2019.17.36.png" alt="UICustomView" width="300"/>
 
 ### License
 The MIT License (MIT)
