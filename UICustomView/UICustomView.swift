@@ -23,10 +23,10 @@ open class UICustomView: UIView {
         
         let bgLayer = CAGradientLayer()
         bgLayer.colors = [startColor.cgColor, firstMiddleColor.cgColor, lastMiddleColor.cgColor, endColor.cgColor]
-        bgLayer.locations = [0, 0.59, 0.8, 1]
+        bgLayer.locations = [0, 0.33, 0.66, 1]
         bgLayer.frame = self.bounds
-        bgLayer.startPoint = CGPoint(x: 0.5, y: -0.44)
-        bgLayer.endPoint = CGPoint(x: 0.59, y: 0.59)
+        bgLayer.startPoint = CGPoint(x: 0.5, y: 1)
+        bgLayer.endPoint = CGPoint(x: 0.5, y: 0)
         self.layer.insertSublayer(bgLayer, at: 0)
         
         let radiusView = CAShapeLayer()
